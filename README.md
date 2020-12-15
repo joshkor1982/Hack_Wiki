@@ -1,1 +1,1 @@
-# Hack_Wiki
+# Hack
